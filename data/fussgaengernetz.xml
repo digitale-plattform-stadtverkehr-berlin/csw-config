@@ -1,0 +1,91 @@
+<gmd:MD_Metadata
+        xmlns:gmd="http://www.isotc211.org/2005/gmd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
+        xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>fussgaengernetz</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString/>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="http://purl.org/dc/dcmitype/Image">http://purl.org/dc/dcmitype/Image
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact/>
+    <gmd:dateStamp>
+        <gco:Date>2021-06-24</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO19115</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification id="fussgaengernetz">
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Fußgängernetz</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>
+                    &lt;p&gt;Das Fußgängernetz ist ein Knoten-Kanten-Modell der Fußwege Berlins. Es ist ein eigenständiges, unabhängiges und gleichrangiges Netz neben dem Detailnetz. Die zwei Netze unterscheiden sich durch Ihre Nutzungsart. Das Fußgängernetz steht für das gesamte Land Berlin zur Verfügung und besteht aus zwei Einheiten, dem Kantennetz und den zugehörigen Knoten.&lt;/p&gt;
+                    &lt;p&gt;
+                    &lt;b&gt;Datengrundlage:&lt;/b&gt;&lt;br/&gt;
+                    - vermessungstechnische Straßenbefahrungen 2014-2016&lt;br/&gt;
+                    - automatische Generierung der Linien anhand bei der Straßenbefahrung erfassten Flächen&lt;br/&gt;
+                    - zusätzliche Datenerhebung für IGA-App 2017&lt;br/&gt;
+                    - manuelle Nachbearbeitung
+                    &lt;/p&gt;
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Fußgängernetz</gco:CharacterString>
+                    </gmd:keyword>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:language>
+                <gco:CharacterString/>
+            </gmd:language>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+</gmd:MD_Metadata>

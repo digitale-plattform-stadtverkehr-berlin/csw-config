@@ -1,0 +1,16 @@
+version: "3"
+services:
+  csw:
+    image: geopython/pycsw:2.6.0
+    restart: unless-stopped
+    volumes:
+      - ./pyCSW/pycsw.cfg:/home/pycsw/pycsw.cfg
+      - ./pyCSW/init-data:/home/pycsw/init-data/
+      - ./pyCSW/db-data:/home/pycsw/data/
+    environment:
+      - PYCSW_CONFIG=/home/pycsw/pycsw.cfg
+    networks:
+      - mdhnetwork
+
+networks:
+  mdhnetwork: {}

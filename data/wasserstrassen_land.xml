@@ -1,0 +1,110 @@
+<gmd:MD_Metadata
+        xmlns:gmd="http://www.isotc211.org/2005/gmd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
+        xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>wasserstrassen_land</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString/>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="http://purl.org/dc/dcmitype/Image">http://purl.org/dc/dcmitype/Image
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact/>
+    <gmd:dateStamp>
+        <gco:Date>2021-06-24</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO19115</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification id="wasserstrassen_land">
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Meldungen Landeswasserstraßen</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>1970-01-01</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>
+&lt;p&gt;Die durch die zuständigen Schifffahrtsaufsichtsbehörden gepflegten Verkehrsnachrichten für die Wasserstraßen weisen auf der Karte mit Schiffahrtszeichen auf aktuelle Gefahren und Sperrungen hin.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Die Wasserstraßen im Land Berlin gehören teils in die Zuständigkeit des Bundes (Bundeswasserstraßen), teils in die Zuständigkeit des Landes Berlin (Landeswasserstraßen).&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Der überwiegende Teil der für die Berufsschifffahrt und den Tourismus relevanten Wasserstraßen in Berlin sind Bundeswasserstraßen, insbesondere: Spree, Havel und Dahme mit den großen Seen, Teltowkanal, Landwehrkanal, Berlin-Spandauer Schifffahrtskanal (vormals: Hohenzollernkanal). Zuständige örtliche Behörde für die Bundeswasserstraßen ist das Wasserstraßen- und Schifffahrtsamt Berlin (WSA). Zuständige Schifffahrtsaufsichtsbehörde für die Landeswasserstraßen ist die Senatsverwaltung für Umwelt, Verkehr und Klimaschutz.&lt;/p&gt;
+&lt;h5&gt;Landeswasserstraßen&lt;/h5&gt;
+&lt;p&gt;&lt;b&gt;Das Verzeichnis der schiffbaren Landeswasserstraßen orientiert sich an Anlage 1 zu § 1 Abs. 1 Landesschifffahrtsverordnung Berlin: &lt;/b&gt;
+&lt;ol&gt;
+&lt;li&gt;Aalemannkanal, Spandau&lt;/li&gt;
+&lt;li&gt;Alter Berlin-Spandauer Schifffahrtskanal&lt;/li&gt;
+&lt;li&gt;Alte Spree, Spandau&lt;/li&gt;
+&lt;li&gt;Müggelspree ab km 11,85 von der Landesgrenze bis Dämeritzsee (oberhalb), in Treptow-Köpenick&lt;/li&gt;
+&lt;li&gt;Grimnitzgraben, Spandau*&lt;/li&gt;
+&lt;li&gt;Havelschlenke, Spandau&lt;/li&gt;
+&lt;li&gt;Heiligensee*&lt;/li&gt;
+&lt;li&gt;Kanäle (Gräben) an der Müggelspree bei Neu-Venedig sowie Walloch, Stichgraben Klein Venedig und Fredersdorfer Fließ bis Fürstenwalder Damm*&lt;/li&gt;
+&lt;li&gt;Maselakekanal, Spandau&lt;/li&gt;
+&lt;li&gt;Neuköllner Schifffahrtskanal mit Oberhafen&lt;/li&gt;
+&lt;li&gt;Nordhafen Spandau&lt;/li&gt;
+&lt;li&gt;Stichkanal Kraftwerk Klingenberg, Rummelsburg&lt;/li&gt;
+&lt;li&gt;Stößensee&lt;/li&gt;
+&lt;li&gt;Tegeler Fließ unterhalb der Karolinenstraße*&lt;/li&gt;
+&lt;li&gt;Tegeler Hafen mit Stichkanal&lt;/li&gt;
+&lt;li&gt;Teufelsseekanal, Spandau&lt;/li&gt;
+&lt;li&gt;Tiefwerder Gewässer, Spandau&lt;/li&gt;
+&lt;li&gt;Südhafen, Spandau&lt;/li&gt;
+&lt;li&gt;Westhafen, Mitte&lt;/li&gt;
+&lt;/ol&gt;
+* Keine Wasserstraße erster Ordnung
+&lt;/p&gt;</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Bundeswasserstraßen</gco:CharacterString>
+                    </gmd:keyword>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:language>
+                <gco:CharacterString/>
+            </gmd:language>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+</gmd:MD_Metadata>
