@@ -4,7 +4,7 @@
         xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
         xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
     <gmd:fileIdentifier>
-        <gco:CharacterString>fahrraddiebstaehle</gco:CharacterString>
+        <gco:CharacterString>dwd_rv_produkt</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString/>
@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2022-03-28</gco:Date>
+        <gco:Date>2022-05-23</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -26,16 +26,16 @@
         <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:identificationInfo>
-        <gmd:MD_DataIdentification id="fahrraddiebstaehle">
+        <gmd:MD_DataIdentification id="dwd_rv_produkt">
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Fahrraddiebstähle</gco:CharacterString>
+                        <gco:CharacterString>DWD Niederschlagsradar</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-03-21</gco:Date>
+                                <gco:Date>2022-05-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -45,7 +45,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-03-21</gco:Date>
+                                <gco:Date>2022-05-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -55,7 +55,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-03-21</gco:Date>
+                                <gco:Date>2022-05-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -66,17 +66,13 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    Angezeigt werden die in der polizeilichen Statistik erfassten Fahrraddiebstähle im Jahr 2021 auf Basis der "Lebensweltlich orientierten Räume".
-                    Weitere Informationen im &lt;a href="https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html" target="_blank"&gt;Kriminalitätsatlas Berlin&lt;/a&gt;.
+                   Niederschlagsradar des Deutschen Wetterdienstes (DWD) - Auflösung 1km, 5 minütig, mm/h. Über den Zeitregler lassen sich die Daten der letzen zwei Wochen sowie die Prognose der nächsten zwei Stunden anzeigen (Zeitangaben in UTC).
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Fahrrad</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>Diebstahl</gco:CharacterString>
+                        <gco:CharacterString>Niederschlag</gco:CharacterString>
                     </gmd:keyword>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
