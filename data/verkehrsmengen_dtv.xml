@@ -30,7 +30,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Verkehrsmengen DTV 2019</gco:CharacterString>
+                        <gco:CharacterString>DTV nach Fahrzeug-Klassen</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
