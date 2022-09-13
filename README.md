@@ -1,4 +1,4 @@
-# Konfigurationsdateen für pyCSW
+# Konfigurationsdaten für pyCSW
 
 Das Repository enthält eine Konfigurationsdatei und Initialisierungsdaten für eine [pyCSW-Instanz](https://pycsw.org/).
 
