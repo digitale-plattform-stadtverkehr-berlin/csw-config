@@ -65,9 +65,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    Die Jelbi-Stationen bündeln an ausgewählten S+U-Bahnhöfen im Stadtgebiet die Sharing-Angebote für Berlin. An den Stationen können Autos, Roller oder Fahrräder gemietet, geladen oder abgegeben werden. Der Layer gibt Auskunft über die an den Stationen verfügbaren Angebote und Services. Jelbi ist ein Dienst der BVG, Interessenten können die Mobilitäts-App im App Store herunter laden.
-                </gco:CharacterString>
+                <gco:CharacterString>&lt;p&gt;Die Jelbi-Stationen bündeln an ausgewählten S+U-Bahnhöfen im Stadtgebiet die Sharing-Angebote für Berlin. An den Stationen können Autos, Roller oder Fahrräder gemietet, geladen oder abgegeben werden. Der Layer gibt Auskunft über die an den Stationen verfügbaren Angebote und Services. Jelbi ist ein Dienst der BVG, Interessenten können die Mobilitäts-App im App Store herunter laden.&lt;/p&gt;&lt;p&gt;Datenquelle: &lt;a href="https://www.jelbi.de/" target="_blank"&gt;Jelbi&lt;/a&gt;&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
