@@ -65,9 +65,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    Standorte der nicht personenbezogenen Schwerbehindertenparkplätze in den Bezirken Friedrichshain-Kreuzberg, Marzahn-Hellersdorf, Neukölln, Reinickendorf und Spandau.
-                </gco:CharacterString>
+                <gco:CharacterString>&lt;p&gt;Standorte der nicht personenbezogenen Schwerbehindertenparkplätze in den Bezirken Friedrichshain-Kreuzberg, Marzahn-Hellersdorf, Neukölln, Reinickendorf und Spandau.&lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>

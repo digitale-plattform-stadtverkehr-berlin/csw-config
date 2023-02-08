@@ -65,9 +65,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    &lt;p&gt;Darstellung der Parkzonen der Parkraumbewirtschaftungsgebiete in den Bezirken Charlottenburg-Wilmersdorf, Friedrichshain-Kreuzberg, Mitte, Pankow, Spandau, Steglitz-Zehlendorf und Tempelhof-Schöneberg.&lt;/p&gt;
-                </gco:CharacterString>
+                <gco:CharacterString>&lt;p&gt;Darstellung der Parkzonen der Parkraumbewirtschaftungsgebiete in den Bezirken Charlottenburg-Wilmersdorf, Friedrichshain-Kreuzberg, Mitte, Pankow, Spandau, Steglitz-Zehlendorf und Tempelhof-Schöneberg.&lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>

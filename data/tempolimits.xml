@@ -66,7 +66,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    Die Geometrien repräsentieren die angeordneten zulässigen Höchstgeschwindigkeiten im Berliner Straßennetz als Ausnahmen vom generellen Tempo 50 (lediglich bei den Autobahnen wird auch Tempo 50 dargestellt). Über die Sachdatenabfrage lassen sich weitere Merkmale zur jeweils angeordneten zulässigen Höchstgeschwindigkeit abfragen, z.B. der Grund der Anordnung oder eine evtl. zeitliche Einschränkung. Als Referenznetz wurde das sog. "Detailnetz Berlin" gewählt.
+                    Die Geometrien repräsentieren die angeordneten zulässigen Höchstgeschwindigkeiten im Berliner Straßennetz als Ausnahmen vom generellen Tempo 50 (lediglich bei den Autobahnen wird auch Tempo 50 dargestellt). Über die Sachdatenabfrage lassen sich weitere Merkmale zur jeweils angeordneten zulässigen Höchstgeschwindigkeit abfragen, z.B. der Grund der Anordnung oder eine evtl. zeitliche Einschränkung. Als Referenznetz wurde das sog. "Detailnetz Berlin" gewählt.&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

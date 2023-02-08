@@ -68,6 +68,7 @@
                 <gco:CharacterString>
                     &lt;p&gt;An 20 Punkten in Berlin wird der Radverkehr durch automatische Dauerzählstellen erfasst. Die erfassten Daten sind sowohl Richtungsbezogen als auch als Gesamtquerschnitt verfügbar.&lt;/p&gt;
                     &lt;p&gt;Die Daten werden einmal täglich mit den Daten bis zum Vortag aktualisiert.&lt;/p&gt;
+                    &lt;p&gt;Quelle: &lt;a href="https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/weitere-radinfrastruktur/zaehlstellen-und-fahrradbarometer/" target="_blank"&gt;Senatsverwaltung für Mobilität&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

@@ -65,15 +65,14 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    &lt;p&gt;Detailliertes Straßennetz von Berlin zu verkehrlichen Zwecken, enthält über das klassifizierte Straßennetz hinaus weitere Straßen und Wege.&lt;/p&gt;
+                <gco:CharacterString>&lt;p&gt;Detailliertes Straßennetz von Berlin zu verkehrlichen Zwecken, enthält über das klassifizierte Straßennetz hinaus weitere Straßen und Wege.&lt;/p&gt;
                     &lt;p&gt;
                     &lt;b&gt;Datengrundlage:&lt;/b&gt;&lt;br/&gt;
                     Das Detailnetz wird in der gleichnamigen Fachanwendung laufend gepflegt. Die Geometrieobjekte werden im Maßstab 1:1000 digitalisiert.
                     Straßenname und Straßennummer werden regelmäßig vom RBS (Regionales Bezugssystem) übernommen.
                     Die Objekte des Detailnetz haben einen stabilen eindeutigen Identifikator, durch den ein Austausch mit Fachdaten möglich wird.
                     Alle Änderungen im Detailnetz werden mit Gültigkeitsdatum historisiert, so dass Netzstände der Vergangenheit generiert werden können. In dieser Karte wird der aktuelle Bestand gezeigt.
-                    &lt;/p&gt;
+                    &lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

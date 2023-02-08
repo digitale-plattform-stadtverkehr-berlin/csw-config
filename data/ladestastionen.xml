@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Ladeeinrichtungen in Berlin und Umgebung aller Betreiber, die an der Ladesäulenverordnung der Bundesnetzagentur teilnehmen. Der Layer gibt Auskunft über die Anzahl der Ladepunkte und ihre technische Ausstattung.
+                    &lt;p&gt;Datenquelle: &lt;a href="https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html" target="_blank"&gt;Bundesnetzagentur&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

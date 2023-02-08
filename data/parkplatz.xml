@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Die Karte zeigt Ihnen wo sich in Berlin P+R- und  öffentliche Parkplätze, Parkzonen, Parkhäuser befinden. Sie können sich beispielsweise, wenn diese Informationen verfügbar sind, über Kapazitäten und Gebühren informieren.
+                    &lt;p&gt;Datenquelle: INRIX (Stand 2021)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

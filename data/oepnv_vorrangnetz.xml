@@ -65,9 +65,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    Im Vorrangnetz werden Strecken mit einem besonders dichten ÖPNV-Angebot und einer hohen Fahrgastnachfrage berücksichtigt. Es umfasst alle Strecken, auf denen an einem Werktag während mindestens einer Stunde mehr als sechs Fahrten pro Stunde und Richtung oder für mindestens zwölf Stunden sechs Fahrten pro Stunde und Richtung geplant sind. Auf den Strecken des ÖPNV-Vorrangnetzes sind die Belange des ÖPNV-Oberflächenverkehrs mit besonderer Priorität zu berücksichtigen. In Ergänzung sind die im Nachtverkehr zwischen 22-6 Uhr bedienten Strecken dargestellt. Zusätzlich sind die Strecken, die zukünftigt zum Vorrangnetz oder zum Nachtnetz hinzukommen werden, mit dem Jahr der geplanten Umsetzung dargestellt.
-                </gco:CharacterString>
+                <gco:CharacterString>Im Vorrangnetz werden Strecken mit einem besonders dichten ÖPNV-Angebot und einer hohen Fahrgastnachfrage berücksichtigt. Es umfasst alle Strecken, auf denen an einem Werktag während mindestens einer Stunde mehr als sechs Fahrten pro Stunde und Richtung oder für mindestens zwölf Stunden sechs Fahrten pro Stunde und Richtung geplant sind. Auf den Strecken des ÖPNV-Vorrangnetzes sind die Belange des ÖPNV-Oberflächenverkehrs mit besonderer Priorität zu berücksichtigen. In Ergänzung sind die im Nachtverkehr zwischen 22-6 Uhr bedienten Strecken dargestellt. Zusätzlich sind die Strecken, die zukünftigt zum Vorrangnetz oder zum Nachtnetz hinzukommen werden, mit dem Jahr der geplanten Umsetzung dargestellt.&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>

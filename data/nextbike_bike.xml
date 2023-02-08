@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Aktuelle verfügbare Fahrräder des Anbieters Nextbike.
+                    &lt;p&gt;Datenquelle: &lt;a href="https://www.nextbike.de" target="_blank"&gt;Nextbike&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

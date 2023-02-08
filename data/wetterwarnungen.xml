@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                    Aktuelle Wetterwarnungen des Deutschen Wetterdienstes (DWD).
+                   &lt;p&gt;Quelle: &lt;a href="https://www.dwd.de" target="_blank"&gt;DWD&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

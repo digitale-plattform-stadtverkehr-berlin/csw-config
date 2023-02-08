@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Fahrradverleihstationen des Anbieters Nextbike mit Angabe der aktuellen Belegung.
+                    &lt;p&gt;Datenquelle: &lt;a href="https://www.nextbike.de" target="_blank"&gt;Nextbike&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

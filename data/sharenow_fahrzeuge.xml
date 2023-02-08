@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Positionen der aktuell verfügbaren Fahrzeuge des Car-Sharing-Anbieters Share Now.
+                    &lt;p&gt;Datenquelle: &lt;a href="https://www.share-now.com/de/de/" target="_blank"&gt;Share Now&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

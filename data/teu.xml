@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     &lt;p&gt;Die Verkehrsdetektion zeigt Ihnen die Standorte der Verkehrsdetektoren in Berlin. Bei Auswahl einer Messstelle erhalten Sie Informationen zu den aufgezeichneten Messwerten.&lt;/p&gt;
+                    &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:resourceFormat>

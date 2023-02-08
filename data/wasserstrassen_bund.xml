@@ -84,7 +84,7 @@
 &lt;h5&gt;Elektronisches-Wasserstraßen-Informationssystem (ELWIS)&lt;/h5&gt;
 &lt;p&gt;
 Für die Bundeswasserstraßen wird von der Wasser- und Schifffahrtsverwaltung des Bundes ein Elektronisches Wasserstraßen-Informationssystem (ELWIS) betrieben. Von diesem Webservice werden Verkehrshinweise für die Wasserstraßen des Bundes in den Länder Berlin und Brandenburg mit einem speziellen Hinweiszeichen visualisiert.
-&lt;/p&gt;</gco:CharacterString>
+&lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://www.elwis.de.de" target="_blank"&gt;www.elwis.de&lt;/a&gt;&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>

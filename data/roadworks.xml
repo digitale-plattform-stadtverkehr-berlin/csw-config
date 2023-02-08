@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Der Layer gibt Auskunft über Straßensperrungen, Baustellen und sonstige Störungen im gesamten Berliner Stadtgebiet. In den genannten Bereichen kann es zu einer erhöhten Verkehrsbelastung durch teilweise oder komplette Sperrungen von Fahrstreifen kommen.
+                    &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

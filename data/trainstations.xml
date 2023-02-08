@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Übersicht der Berliner Bahnhöfe mit Informationen zur vor Ort verfügbaren Infrastuktur. Verlinkt sind die Abfahrtstafeln auf den Seiten der Deutschen Bahn.
+                    &lt;p&gt;Datenquelle: &lt;a href="https://daten.berlin.de/datensaetze/vbb-fahrplandaten-gtfs" target="_blank"&gt;GTFS Daten des VBB&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

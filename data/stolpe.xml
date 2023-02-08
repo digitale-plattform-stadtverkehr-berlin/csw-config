@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Der Layer "Verkehrsdetektion - Induktionsschleife Autobahn" zeigt die Standorte der Verkehrsdetektoren auf den Autobahnen und Bundesstraßen in der Umgebung von Berlin. Bei Auswahl einer Messstelle erhalten Sie Informationen zu den aufgezeichneten Messwerten (Verkehrsstärke und Geschwindigkeit für PKW und LKW).
+                    &lt;p&gt;Datenquelle: &lt;a href="https://service.mdm-portal.de/mdm-portal-application/" target="_blank"&gt;Autobahn GmbH&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

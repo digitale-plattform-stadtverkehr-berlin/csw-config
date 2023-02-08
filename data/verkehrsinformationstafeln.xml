@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Standorte der Verkehrsinfotafeln im Berliner Straßenverkehr. Auf den über dreißig Verkehrsinformationstafeln können aktuelle und für den jeweiligen Standort relevante Verehrsinformationen auf direktem Wege an Verkehrsteilnehmende kommuniziert werden. Neben Stauwarnungen wird beispielsweise ebenso frühzeitig über Großveranstaltungen oder Baustellen informiert.
+                    &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

@@ -68,6 +68,7 @@
                 <gco:CharacterString>
                     &lt;p&gt;In Berlin werden 9 U-Bahn Linien von der BVG betrieben.&lt;/p&gt;
                     &lt;p&gt;Es stehen sowohl die Stationen als auch der Streckenverlauf der einzelnen Linien als eigene Kartenlayer zur Verfügung.&lt;/p&gt;
+                    &lt;p&gt;Datenquelle: &lt;a href="https://daten.berlin.de/datensaetze/vbb-fahrplandaten-gtfs" target="_blank"&gt;GTFS Daten des VBB&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

@@ -65,8 +65,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>
-                    Der Layer zeigt die Standorte der Messstationen aus dem Berliner Luftgütemessnetz. Die erfassten Messwerte können auf den verlinkten Detailseiten abgefragt werden.
+                <gco:CharacterString>&lt;p&gt;Der Layer zeigt die Standorte der Messstationen aus dem Berliner Luftgütemessnetz. Die erfassten Messwerte können auf den verlinkten Detailseiten abgefragt werden.&lt;/p&gt;
+                    &lt;p&gt;Quelle: &lt;a href="https://luftdaten.berlin.de/station/overview/active" target="_blank"&gt;Senatsverwaltung für Umwelt&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
