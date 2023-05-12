@@ -67,9 +67,9 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     &lt;p&gt;Verkehrsmengen an den Standorten der Verkehrsdetektion im Jahresvergleich für die Jahre 2015 bis 2022.&lt;ul&gt;
-                    &lt;li&gt;DTV - durchschnittliche tägliche Verkehrsmenge (berechnet über alle Tage des Jahres)&lt;/li&gt;
-                    &lt;li&gt;DTVw - durchschnittliche werktägliche Verkehrsmenge (Montag - Freitag)&lt;/li&gt;
-                    &lt;li&gt;SV-Anteil - Schwerverkehrsanteil (%) am DTVw&lt;/ul&gt;&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;DTV - durchschnittliche tägliche Verkehrsmenge (berechnet über alle Tage des Jahres und pro Fahrtrichtung)&lt;/li&gt;
+                    &lt;li&gt;DTVw - durchschnittliche werktägliche Verkehrsmenge (Montag - Freitag pro Fahrtrichtung)&lt;/li&gt;&lt;/ul&gt;
+                    &lt;p&gt;Es handelt sich um Auswertungen zum Teil vorläufiger Daten automatischer Messstationen, die noch einer Endvalidierung unterzogen werden.&lt;/p&gt;
                     &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
