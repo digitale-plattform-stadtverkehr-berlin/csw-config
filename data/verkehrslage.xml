@@ -67,7 +67,8 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     &lt;p&gt;Die &lt;b>Verkehrslagekarte Berlin&lt;/b&gt; zeigt Ihnen wo der Verkehr störungsfrei fließt (grün) und wo Sie mit Verkehrsbehinderungen (gelb) oder Stau (rot) rechnen müssen.&lt;/p&gt;
-                    &lt;p&gt;Darstellung: Senatsverwaltung für Mobilität; Datengrundlage: HERE/VMZ Berlin&lt;/p&gt;
+                    &lt;p&gt;Darstellung: Senatsverwaltung für Mobilität
+Datengrundlage: VMZ Berlin Betreibergesellschaft mbH / HERE Europe B.V.&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
