@@ -67,8 +67,8 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     &lt;p&gt;Verkehrsmengen an den Standorten der Verkehrsdetektion im Jahresvergleich für die Jahre 2015 bis 2022.&lt;ul&gt;
-                    &lt;li&gt;Durchschnittliche tägliche Verkehrsmenge (berechnet über alle Tage des Jahres und pro Fahrtrichtung, sensorbasiert)&lt;/li&gt;
-                    &lt;li&gt;Durchschnittliche werktägliche Verkehrsmenge (Montag - Freitag pro Fahrtrichtung, sensorbasiert)&lt;/li&gt;&lt;/ul&gt;
+                    &lt;li&gt;Sensorbasiert - durchschnittliche tägliche Verkehrsmenge (berechnet über alle Tage des Jahres und pro Fahrtrichtung)&lt;/li&gt;
+                    &lt;li&gt;Sensorbasiert - durchschnittliche werktägliche Verkehrsmenge (Montag - Freitag pro Fahrtrichtung)&lt;/li&gt;&lt;/ul&gt;
                     &lt;p&gt;Es handelt sich um Auswertungen zum Teil vorläufiger Daten automatischer Messstationen, die noch einer Endvalidierung unterzogen werden.&lt;/p&gt;
                     &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
                 </gco:CharacterString>
