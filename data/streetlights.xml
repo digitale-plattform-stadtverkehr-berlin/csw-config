@@ -1,0 +1,85 @@
+<gmd:MD_Metadata
+        xmlns:gmd="http://www.isotc211.org/2005/gmd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
+        xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>streetlights</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString/>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="http://purl.org/dc/dcmitype/Image">http://purl.org/dc/dcmitype/Image
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact/>
+    <gmd:dateStamp>
+        <gco:Date>2023-12-08</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO19115</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification id="streetlights">
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Öffentliche Beleuchtung</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2023-12-08</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2023-12-08</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2023-12-08</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>
+                    &lt;p&gt;Darstellung der Straßenbeleuchtung mit jeweiligem Standort, einem Symbol zur Verdeutlichung der Leuchtenart und der Leuchtstellennummer (4-stellig) mit variablem Maßstab unter 1:2 000.&lt;/p&gt;
+                    &lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Fußgängernetz</gco:CharacterString>
+                    </gmd:keyword>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:language>
+                <gco:CharacterString/>
+            </gmd:language>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+</gmd:MD_Metadata>
