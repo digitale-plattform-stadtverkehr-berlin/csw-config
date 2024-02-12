@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2021-11-05</gco:Date>
+        <gco:Date>2024-01-17</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -98,7 +98,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://api.viz.berlin.de/FROST-Server-EcoCounter/v1.1/</gmd:URL>
+                                <gmd:URL>https://api.viz.berlin.de/FROST-Server-EcoCounter2/v1.1/</gmd:URL>
                             </gmd:linkage>
                             <gmd:name>
                                 <gco:CharacterString>STA-Schnittstelle</gco:CharacterString>
