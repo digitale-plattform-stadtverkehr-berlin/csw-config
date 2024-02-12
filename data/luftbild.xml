@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2023-08-22</gco:Date>
+        <gco:Date>2024-02-12</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -66,7 +66,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    Bei den Daten handelt es sich um farbige digitale True-Orthophotomosaike (TrueDOP). Bei TrueDOP werden alle Objekte lagetreu abgebildet, d. h. es gibt keine Verkippungen von Gebäuden oder Bäumen, sodass es keine Abschattungseffekte von z. B. Bürgersteigen gibt. Die Daten liegen für das gesamte Berliner Stadtgebiet im Blattschnitt 2 km x 2 km vor und haben eine Bodenauflösung von 0,20 Meter bei einer Lagegenauigkeit von +/- 0,4 Meter.&lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/viewer/main/" target="_blank"&gt;Geoportal Berlin&lt;/a&gt;&lt;/p&gt;
+                    Bei den Daten handelt es sich um farbige digitale True-Orthophotomosaike (TrueDOP). Bei TrueDOP werden alle Objekte lagetreu abgebildet, d. h. es gibt keine Verkippungen von Gebäuden oder Bäumen, sodass es keine Abschattungseffekte von z. B. Bürgersteigen gibt. Die Daten liegen für das gesamte Berliner Stadtgebiet im Blattschnitt 2 km x 2 km vor und haben eine Bodenauflösung von 0,20 Meter bei einer Lagegenauigkeit von +/- 0,4 Meter.&lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/viewer/main/" target="_blank"&gt;Geoportal Berlin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Geoportal Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

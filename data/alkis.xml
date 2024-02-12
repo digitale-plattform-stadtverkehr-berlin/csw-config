@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2023-12-08</gco:Date>
+        <gco:Date>2024-02-12</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,6 +68,7 @@
                 <gco:CharacterString>
                     &lt;p&gt;In ALKIS Berlin werden die aktuellen Grundrissdaten des Liegenschaftskatasters flächendeckend geführt.&lt;/p&gt;
                     &lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Geoportal Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
