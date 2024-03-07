@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-02-12</gco:Date>
+        <gco:Date>2024-03-07</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -70,7 +70,7 @@
                     &lt;li&gt;Sensorbasiert - durchschnittliche tägliche Verkehrsmenge (berechnet über alle Tage des Jahres und pro Fahrtrichtung)&lt;/li&gt;
                     &lt;li&gt;Sensorbasiert - durchschnittliche werktägliche Verkehrsmenge (Montag - Freitag pro Fahrtrichtung)&lt;/li&gt;&lt;/ul&gt;
                     &lt;p&gt;Es handelt sich um Auswertungen zum Teil vorläufiger Daten automatischer Messstationen, die noch einer Endvalidierung unterzogen werden.&lt;/p&gt;
-                    &lt;p&gt;Quelle: Verkehrsinformationszentrale Berlin (Senatsverwaltung für Mobilität)&lt;/p&gt;
+                    &lt;p&gt;Quelle: Senatsverwaltung für Verkehr Berlin&lt;/p&gt;
                     &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Senatsverwaltung für Verkehr Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>

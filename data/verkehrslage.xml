@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2021-06-24</gco:Date>
+        <gco:Date>2024-03-07</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -67,7 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     &lt;p&gt;Die &lt;b>Verkehrslagekarte Berlin&lt;/b&gt; zeigt Ihnen wo der Verkehr störungsfrei fließt (grün) und wo Sie mit Verkehrsbehinderungen (gelb) oder Stau (rot) rechnen müssen.&lt;/p&gt;
-                    &lt;p&gt;Darstellung: Senatsverwaltung für Mobilität
+                    &lt;p&gt;Darstellung: Senatsverwaltung für Verkehr Berlin
 Datengrundlage: VMZ Berlin Betreibergesellschaft mbH / HERE Europe B.V.&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>

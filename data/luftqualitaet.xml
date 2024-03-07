@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-02-12</gco:Date>
+        <gco:Date>2024-03-07</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,7 +68,7 @@
                 <gco:CharacterString>
                     &lt;p&gt;Wie hoch ist die Luftbelastung an den Straßen, auf denen ich gleich mit dem Fahrrad fahren möchte? Kann ich unbesorgt joggen oder spazieren gehen? Sollte ich heute auf das Autofahren verzichten, weil die Luft schon hoch belastet ist?&lt;/p&gt;
                     &lt;p&gt;Mit „Hauptstadtluft – Luftqualität an Straßen“ können Sie sich jederzeit über die aktuelle Luftqualität an Berliner Hauptverkehrsstraßen informieren. Eine stündlich aktualisierte Karte zeigt die Luftbelastung an den Abschnitten des Berliner Hauptverkehrsstraßennetz farbig an, an denen aufgrund der Randbebauung und eines hohen Verkehrsaufkommens hohe Schadstoffbelastungen auftreten können. Die Farben des Luftqualitätsindexes erlauben dabei einen schnellen Überblick. Die Angaben zur Luftqualität werden anhand von aktuellen Verkehrs-, Wetter- und Luftgütemessdaten modelliert.&lt;/p&gt;
-                    &lt;p&gt;Quelle: &lt;a href="https://viz.berlin.de/luftqualitaet-clean/" target="_blank"&gt;Senatsverwaltung für Mobilität&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Quelle: &lt;a href="https://viz.berlin.de/luftqualitaet-clean/" target="_blank"&gt;Senatsverwaltung für Verkehr Berlin&lt;/a&gt;&lt;/p&gt;
                     &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Senatsverwaltung für Verkehr Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>

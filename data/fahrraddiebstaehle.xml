@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2022-03-28</gco:Date>
+        <gco:Date>2024-03-07</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,7 +68,7 @@
                 <gco:CharacterString>
                     Angezeigt werden die in der polizeilichen Statistik erfassten Fahrraddiebstähle im Jahr 2021 auf Basis der "Lebensweltlich orientierten Räume".
                     Weitere Informationen im &lt;a href="https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html" target="_blank"&gt;Kriminalitätsatlas Berlin&lt;/a&gt;.
-                    &lt;p&gt;Darstellung: Senatsverwaltung für Mobilität; Datengrundlage: &lt;a href="https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html" target="_blank"&gt;Polizei Berlin&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Darstellung: Senatsverwaltung für Verkehr Berlin; Datengrundlage: &lt;a href="https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html" target="_blank"&gt;Polizei Berlin&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

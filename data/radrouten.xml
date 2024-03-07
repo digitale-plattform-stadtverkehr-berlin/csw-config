@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-02-12</gco:Date>
+        <gco:Date>2024-03-07</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,7 +68,7 @@
                 <gco:CharacterString>
                     &lt;p&gt;Berlin ist durchzogen von einer Vielzahl von Radrouten. Sie laden dazu ein, die Stadt vom Fahrradsattel aus zu erleben. Ob durch dichtbesiedelte Quartiere oder durch das grüne Berlin: Auf ausgeschilderten Radrouten ist ein komfortables und sicheres Radfahren möglich. Sie werden künftig in das aktuell in Erarbeitung befindliche Radverkehrsnetz integriert.&lt;/p&gt;
                     &lt;p&gt;Die ausgeschilderten Radrouten führen meist durch ruhige Nebenstraßen, aber auch durch Parks und an Uferwegen entlang. Wenn Routen auf Hauptverkehrsstraßen verlaufen, sind sichere Radverkehrsanlagen vorhanden.&lt;/p&gt;
-                    &lt;p&gt;Quelle: &lt;a href="https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/radverkehrsnetz/radrouten/" target="_blank"&gt;Senatsverwaltung für Mobilität&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Quelle: &lt;a href="https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/radverkehrsnetz/radrouten/" target="_blank"&gt;Senatsverwaltung für Verkehr Berlin&lt;/a&gt;&lt;/p&gt;
                     &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Senatsverwaltung für Verkehr Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
