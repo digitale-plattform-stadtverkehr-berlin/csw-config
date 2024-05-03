@@ -69,7 +69,7 @@
                     &lt;p&gt;Dieser Datensatz enthält die Radverkehrsmengen und die mittleren gefahrenen Radverkehrsgeschwindigkeiten, die mit Hilfe der App DB Rad+ im Berliner Straßennetz erfasst werden. Die Nutzung der Daten erfolgt nur bei Einwilligung durch die Nutzenden der App.&lt;/p&gt;
                     &lt;p&gt;Bereitgestellt werden je Straßenabschnitt die aufsummierten Radverkehrsmengen je Jahr (bei angefangenen Jahren bis zum Vortag). Dargestellt werden nur diejenigen Straßenabschnitte, auf denen im betrachteten Zeitabschnitt mindestens acht Fahrten stattgefunden haben. Für jeden Streckenabschnitt werden die aufsummierte Anzahl an Fahrten sowie die mittlere Geschwindigkeit (km/h) im jeweiligen Zeitraum angezeigt.&lt;/p&gt;
                     &lt;p&gt;Im ersten Jahr (2023) wurde die Rad+ App in Berlin erst im April eingeführt, sowie das Gebiet im Dezember um Potsdam und weitere Gebiete im Berliner Umland erweitert, so dass sich die Daten gebietsabhängig auf unterschiedlichen Erfasssungszeiträumen beruhen. Außerdem ist zu beachten, dass sich die Zahl der Nutzenden der App und damit die Datenbasis laufend ändert, so dass die absoluten Zahlen nur eingeschränkt aussagekräftig sind.&lt;/p&gt;
-                    &lt;p&gt;Datenquelle: &lt;a href="https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html" target="_blank"&gt;Bundesnetzagentur&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Datenquelle: &lt;a href="https://radplus.bahnhof.de/" target="_blank"&gt;DB Rad+&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
