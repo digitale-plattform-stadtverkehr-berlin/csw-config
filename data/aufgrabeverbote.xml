@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-02-12</gco:Date>
+        <gco:Date>2024-05-03</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -65,7 +65,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>&lt;p&gt;Die Karte dient einer ersten, visuellen Information über gegenwärtig im Berliner Straßennetz existierende Aufgrabeverbote wie sie von den dafür zuständigen bezirklichen Straßen- und Grünflächenämtern mitgeteilt worden sind. Wenn sie auch in der Realität eine (i.d.R. längliche) Fläche darstellen, so sind sie in dieser Karte zur ersten Orientierung lediglich durch eine Linie kenntlich gemacht. Sie geben noch keine exakte Information bezüglich der genauen Lage und flächenmäßigen Ausdehnung. Hierzu ist im Bedarfsfalle das betreffende Straßen- und Grünflächenamt zu kontaktieren; die Kontaktdaten finden sich auf der Internetseite &lt;a href="http:\\www.stadtentwicklung.berlin.de/bauen/strassen/aufgrabeverbot/" target="_blank"&gt;http:\\www.stadtentwicklung.berlin.de/bauen/strassen/aufgrabeverbot/&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Geoportal Berlin / [Titel des Datensatzes]"&lt;/p&gt;</gco:CharacterString>
+                <gco:CharacterString>&lt;p&gt;Die Karte dient einer ersten, visuellen Information über gegenwärtig im Berliner Straßennetz existierende Aufgrabeverbote wie sie von den dafür zuständigen bezirklichen Straßen- und Grünflächenämtern mitgeteilt worden sind. Wenn sie auch in der Realität eine (i.d.R. längliche) Fläche darstellen, so sind sie in dieser Karte zur ersten Orientierung lediglich durch eine Linie kenntlich gemacht. Sie geben noch keine exakte Information bezüglich der genauen Lage und flächenmäßigen Ausdehnung. Hierzu ist im Bedarfsfalle das betreffende Straßen- und Grünflächenamt zu kontaktieren; die Kontaktdaten finden sich auf der Internetseite &lt;a href="http:\\www.stadtentwicklung.berlin.de/bauen/strassen/aufgrabeverbot/" target="_blank"&gt;http:\\www.stadtentwicklung.berlin.de/bauen/strassen/aufgrabeverbot/&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/" target="_blank"&gt;Geoportal Land Berlin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Geoportal Berlin / [Titel des Datensatzes]"&lt;/p&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
