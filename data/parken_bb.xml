@@ -66,6 +66,8 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
+                    Die Karte zeigt Ihnen wo sich in Berliner Umgebung (Brandenburg) öffentliche Parkplätze befinden. Sie können sich beispielsweise, wenn diese Informationen verfügbar sind, über Kapazitäten und Gebühren informieren. Bitte beachten Sie, dass diese Informationen veraltet sein können, da der Datensatz aus dem Jahr 2021 ist.
+                    &lt;p&gt;Datenquelle: INRIX (Stand 2021)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>

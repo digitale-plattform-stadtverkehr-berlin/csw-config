@@ -4,7 +4,7 @@
         xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
         xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
     <gmd:fileIdentifier>
-        <gco:CharacterString>parken_be</gco:CharacterString>
+        <gco:CharacterString>parken_be_ohne_pr</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString/>
@@ -26,11 +26,11 @@
         <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:identificationInfo>
-        <gmd:MD_DataIdentification id="parken_be">
+        <gmd:MD_DataIdentification id="parken_be_ohne_pr">
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Parkplätze Berlin (ohne Park+Ride)</gco:CharacterString>
+                        <gco:CharacterString>Parkhäuser und Parkplätze Berlin (ohne P+R)</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -66,6 +66,8 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
+                    Die Karte zeigt Ihnen wo sich in Berlin öffentliche Parkplätze und Parkhäuser befinden. Sie können sich beispielsweise, wenn diese Informationen verfügbar sind, über Kapazitäten und Gebühren informieren. Bitte beachten Sie, dass diese Informationen veraltet sein können, da der Datensatz aus dem Jahr 2021 ist.
+                    &lt;p&gt;Datenquelle: INRIX (Stand 2021)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
