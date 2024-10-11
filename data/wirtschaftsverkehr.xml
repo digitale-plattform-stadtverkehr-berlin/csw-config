@@ -66,7 +66,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    &lt;p&gt;Die Strecken für den Wirtschaftsverkehr wurden aus Floating Car Daten (INRIX Trips) für September 2021 ermittelt. Dafür wurden die Verkehrsteilnehmer auf den Flottentyp und die Gewichtsklasse gefiltert.&lt;/p&gt;
+                    &lt;p&gt;Die Strecken für die KEP-ähnlichen Verkehre wurden aus Floating Car Daten (INRIX Trips) für September 2021 ermittelt. Die Analyse beschränkt sich auf Fahrzeuge des Flottentyps Liefer-/Paketflotten und mietbare/private LKW-Flotten und der Gewichtsklasse weniger als 12,5 Tonnen.&lt;/p&gt;
                     &lt;p&gt;Quelle: Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt&lt;br&gt;
                     Lizenz: &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;Datenlizenz Deutschland - Namensnennung - Version 2.0&lt;/a&gt;&lt;/p&gt;
                 </gco:CharacterString>
