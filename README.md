@@ -16,5 +16,5 @@ Erforderlich sind
 
 ### Import der Daten in pycsw:
 ```
-> docker-compose exec csw pycsw-admin.py -f /home/pycsw/pycsw.cfg -c load_records -p /home/pycsw/init-data -y
+> docker compose exec csw pycsw-admin.py -f /home/pycsw/pycsw.cfg -c load_records -p /home/pycsw/init-data -y
 ```
