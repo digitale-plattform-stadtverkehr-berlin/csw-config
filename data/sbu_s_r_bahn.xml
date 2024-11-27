@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-11-25</gco:Date>
+        <gco:Date>2024-11-27</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -66,7 +66,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    &lt;p&gt;Die SBU ist eine Grundlagenkarte für die Erstellung thematischer Karten in kleineren Maßstäben. Sie setzt sich aus aufbereiteten ATKIS-Daten und (eigenen) neu erfassten Geometrien zusammen. Die Karte zeigt neben der Flächennutzung in Berlin und im Brandenburger Umland auch den Bestand des Bahn- und Hauptstraßennetzes. Das Verkehrsnetz wurde luftbildgenau digitalisiert und ermöglicht räumliche Verschneidungen. Pro Strecke wurde nur eine Linie und pro Bahnhof nur ein Punkt erfasst.&lt;/p&gt;
+                    &lt;p&gt;Dieser Layer stellt den Bestand der S- und Regionalbahnlinien auf Grundlage der SBU (Strukturkarte Berlin und Umland) als Karte zur Verfügung. Das Verkehrsnetz wurde luftbildgenau digitalisiert.Pro Strecke wurde nur eine Linie und pro Bahnhof nur ein Punkt erfasst.&lt;/p&gt;
                     &lt;p&gt;Quelle: &lt;a href="https://fbinter.stadt-berlin.de/fb/index.jsp" target="_blank"&gt;FIS-Broker&lt;/a&gt;&lt;/p&gt;
                     &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Geoportal Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
