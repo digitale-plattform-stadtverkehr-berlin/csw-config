@@ -17,7 +17,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-11-07</gco:Date>
+        <gco:Date>2024-12-12</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -30,7 +30,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Straßenseitiges Parken (Außerhalb des S-Bahnringes)</gco:CharacterString>
+                        <gco:CharacterString>Straßenseitiges Parken (außerhalb S-Bahnring)</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
