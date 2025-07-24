@@ -67,6 +67,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
                     Die Karte zeigt Ihnen wo sich in Berlin öffentliche Parkplätze und Parkhäuser befinden. Sie können sich beispielsweise, wenn diese Informationen verfügbar sind, über Kapazitäten und Gebühren informieren. Bitte beachten Sie, dass diese Informationen veraltet sein können, da der Datensatz aus dem Jahr 2021 ist.
+                    Für einige Parkhäuser sind Live-Auslastungsdaten vorhanden. Sie erkennen diese Parkhäuser an der farbigen Umrandung, welche den Belegungsgrad in Rot, Gelb und Grün angibt.
                     &lt;p&gt;Datenquelle: INRIX (Stand 2021)&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
