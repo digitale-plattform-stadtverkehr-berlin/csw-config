@@ -1,7 +1,9 @@
 <gmd:MD_Metadata
         xmlns:gmd="http://www.isotc211.org/2005/gmd"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns:gco="http://www.isotc211.org/2005/gco" version="2.0.2"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:gco="http://www.isotc211.org/2005/gco"
+        xmlns:gmx="http://www.isotc211.org/2005/gmx" version="2.0.2"
         xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
     <gmd:fileIdentifier>
         <gco:CharacterString>9ecdc361-93c7-43d4-b59b-022e0823e9f4</gco:CharacterString>
@@ -78,17 +80,27 @@
             </gmd:descriptiveKeywords>
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
-                    <gmd:useConstraints>
-                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
-                    </gmd:useConstraints>
+                    <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:accessConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>© GeoBasis-DE/LGB,&nbsp;&lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;dl-de/by-2-0&lt;/a&gt;, Daten geändert</gco:CharacterString>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
-            <gmd:language>
-                <gco:CharacterString/>
-            </gmd:language>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:useConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>© GeoBasis-DE/LGB</gco:CharacterString>
+                    </gmd:otherConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>dl-de/by-2-0 (https://www.govdata.de/dl-de/by-2-0), Daten geändert</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
 </gmd:MD_Metadata>

@@ -6,7 +6,7 @@
         xmlns:gmx="http://www.isotc211.org/2005/gmx" version="2.0.2"
         xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
     <gmd:fileIdentifier>
-        <gco:CharacterString>radplus</gco:CharacterString>
+        <gco:CharacterString>dps</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString/>
@@ -19,7 +19,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-05-03</gco:Date>
+        <gco:Date>2025-04-10</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -28,16 +28,16 @@
         <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:identificationInfo>
-        <gmd:MD_DataIdentification id="radplus">
+        <gmd:MD_DataIdentification id="dps">
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Rad+</gco:CharacterString>
+                        <gco:CharacterString>Digitale Plattform Stadtverkehr</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2024-05-03</gco:Date>
+                                <gco:Date>2025-04-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -47,7 +47,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2024-05-03</gco:Date>
+                                <gco:Date>2025-04-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -57,7 +57,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2024-05-03</gco:Date>
+                                <gco:Date>2025-04-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
@@ -68,40 +68,37 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    &lt;p&gt;Dieser Datensatz enthält die Radverkehrsmengen und die mittleren gefahrenen Radverkehrsgeschwindigkeiten, die mit Hilfe der App DB Rad+ im Berliner Straßennetz erfasst werden. Die Nutzung der Daten erfolgt nur bei Einwilligung durch die Nutzenden der App.&lt;/p&gt;
-                    &lt;p&gt;Bereitgestellt werden je Straßenabschnitt die aufsummierten Radverkehrsmengen je Jahr (bei angefangenen Jahren bis zum Vortag). Dargestellt werden nur diejenigen Straßenabschnitte, auf denen im betrachteten Zeitabschnitt mindestens acht Fahrten stattgefunden haben. Für jeden Streckenabschnitt werden die aufsummierte Anzahl an Fahrten sowie die mittlere Geschwindigkeit (km/h) im jeweiligen Zeitraum angezeigt.&lt;/p&gt;
-                    &lt;p&gt;Im ersten Jahr (2023) wurde die Rad+ App in Berlin erst im April eingeführt, sowie das Gebiet im Dezember um Potsdam und weitere Gebiete im Berliner Umland erweitert, so dass sich die Daten gebietsabhängig auf unterschiedlichen Erfasssungszeiträumen beruhen. Außerdem ist zu beachten, dass sich die Zahl der Nutzenden der App und damit die Datenbasis laufend ändert, so dass die absoluten Zahlen nur eingeschränkt aussagekräftig sind.&lt;/p&gt;
-                    &lt;p&gt;Datenquelle: &lt;a href="https://radplus.bahnhof.de/" target="_blank"&gt;DB Rad+&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Die Digitale Plattform Stadtverkehr (DPS) ist die Verkehrsdatenplattform der Verkehrsinformationszentrale Berlin (VIZ Berlin). Ziel der DPS ist es Verkehrsdaten an einem Ort zu bündeln und diese so aufzuarbeiten, dass diese einen möglichst großen Nutzen für Verkehrsplanung und Verkehrsmanagement bieten. Dabei stehen die Daten, Dienste und Verkehrsanalysen sowohl den Berliner Behörden als auch der Öffentlichkeit frei zur Verfügung.&lt;/p&gt;
+                    &lt;p&gt;Sie finden auf dieser Seite Antworten auf die Fragen: Wo befinden sich verkehrliche Einschränkungen durch Baustellen, Sperrungen oder Staus? Wo ist der nächste Behindertenparkplatz und wo die nächste Fahrradreparatursäule? Wie ist die aktuelle Luftschadstoffbelastung in meiner Straße und wie wird diese in den nächsten Stunden und Tagen sein? Wie haben sich die Verkehrsmengen in den letzten Jahren entwickelt und welche Pendlerbeziehungen gibt es zwischen Berlin und Brandenburg?&lt;/p&gt;
+                    &lt;p&gt;Das Angebot wird stetig weiterentwickelt und wir freuen uns auf Ihr Feedback.&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:organisationName><gco:CharacterString>Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt Berlin</gco:CharacterString></gmd:organisationName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress><gco:CharacterString>DPS@SenMVKU.Berlin.de</gco:CharacterString></gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                    </gmd:role></gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Fahrrad</gco:CharacterString>
+                        <gco:CharacterString>DPS</gco:CharacterString>
                     </gmd:keyword>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-            <gmd:resourceConstraints>
-                <gmd:MD_LegalConstraints>
-                    <gmd:accessConstraints>
-                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
-                    </gmd:accessConstraints>
-                    <gmd:otherConstraints>
-                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
-                    </gmd:otherConstraints>
-                </gmd:MD_LegalConstraints>
-            </gmd:resourceConstraints>
-            <gmd:resourceConstraints>
-                <gmd:MD_LegalConstraints>
-                    <gmd:useConstraints>
-                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
-                    </gmd:useConstraints>
-                    <gmd:otherConstraints>
-                        <gco:CharacterString>Datenquelle DB Rad+ (https://radplus.bahnhof.de/)</gco:CharacterString>
-                    </gmd:otherConstraints>
-                    <gmd:otherConstraints/>
-                </gmd:MD_LegalConstraints>
-            </gmd:resourceConstraints>
+            <gmd:language>
+                <gco:CharacterString/>
+            </gmd:language>
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
 </gmd:MD_Metadata>
