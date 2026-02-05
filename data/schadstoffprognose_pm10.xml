@@ -1,0 +1,108 @@
+<gmd:MD_Metadata
+        xmlns:gmd="http://www.isotc211.org/2005/gmd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:gco="http://www.isotc211.org/2005/gco"
+        xmlns:gmx="http://www.isotc211.org/2005/gmx" version="2.0.2"
+        xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>schadstoffprognose_pm10</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString/>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="http://purl.org/dc/dcmitype/Image">http://purl.org/dc/dcmitype/Image
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact/>
+    <gmd:dateStamp>
+        <gco:Date>2026-02-05</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO19115</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification id="schadstoffprognose_pm10">
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Vorhersage der Luftschadstoffbelastung PM10</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>
+                    &lt;p&gt;Feinstaub ist ein Gemisch aus unterschiedlich festen und flüssigen Partikeln, die über längere Zeit in der Luft schweben und über weite Strecken transportiert werden können. Partikel entstehen bei der Verbrennung von Kraftstoffen, aber auch durch mechanische Prozesse wie Baustellenarbeiten oder Staubaufwirbelung; etwa ein Drittel bildet sich erst in der Luft, wenn andere Schadstoffe miteinander reagieren. An Hauptverkehrsstraßen stammt rund ein Viertel der Belastung aus dem Kraftfahrzeugverkehr, vor allem durch Reifen‑ und Bremsabrieb, sowie aufgewirbelten Staub.&lt;/p&gt;
+                    &lt;p&gt;Die Partikel dringen je nach Größe verschieden tief in den Körper ein. Je kleiner sie sind, umso gefährlicher sind sie für den Organismus. Partikel, deren Durchmesser kleiner als 10 Mikrometer – ein hundertstel Millimeter – sind, werden als PM10 bezeichnet. PM10 kann beim Menschen in die Nasenhöhle, Rachen und obere Bronchien gelangen und zu Erkrankungen des Herz-Kreislaufsystems und der Atemwege führen. Eine Erhöhung der Partikel-Konzentration ist mit einem Anstieg der Gesamtsterblichkeit verbunden.&lt;/p&gt;
+                    &lt;p&gt;Datenquelle: &lt;a href="https://api.fairq.inwt-statistics.de/docs#/" target="_blank"&gt;INWT Statistics GmbH, Forecasting Air Quality&lt;/a&gt;&lt;/p&gt;
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Schadstoffprognose</gco:CharacterString>
+                    </gmd:keyword>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:accessConstraints>
+                    <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:useConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>Quelle: Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt</gco:CharacterString>
+                    </gmd:otherConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>INWT Statistics GmbH, Forecasting Air Quality (https://api.fairq.inwt-statistics.de/docs#/)</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+</gmd:MD_Metadata>

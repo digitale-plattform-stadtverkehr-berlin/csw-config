@@ -1,0 +1,107 @@
+<gmd:MD_Metadata
+        xmlns:gmd="http://www.isotc211.org/2005/gmd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:gco="http://www.isotc211.org/2005/gco"
+        xmlns:gmx="http://www.isotc211.org/2005/gmx" version="2.0.2"
+        xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>schadstoffprognose_no2</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString/>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="http://purl.org/dc/dcmitype/Image">http://purl.org/dc/dcmitype/Image
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact/>
+    <gmd:dateStamp>
+        <gco:Date>2026-02-05</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO19115</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification id="schadstoffprognose_no2">
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Vorhersage der Luftschadstoffbelastung NO2</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="creation" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2026-02-05</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeListValue="revision" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" />
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>
+                    &lt;p&gt;Stickstoffdioxid (NO₂) ist ein gesundheitsschädliches Reizgas, das tief in die Atemwege eindringen kann. Der Großteil der NO₂-Emissionen resultiert aus Verbrennungsprozessen, beispielsweise in Fahrzeugmotoren, Kraftwerken oder bei der Holzverbrennung. Die Hauptquelle der erhöhten NO₂-Konzentrationen in Berlin ist der Kraftfahrzeugverkehr. Er ist für rund drei Viertel der an Hauptverkehrsstraßen gemessenen NO₂-Belastung verantwortlich. Studien zeigen Zusammenhänge zwischen NO₂ Belastung und Atemwegs sowie Herz Kreislauf Erkrankungen; das Risiko für Beschwerden wie Bronchitis oder Asthma steigt mit höheren Konzentrationen. Besonders empfindlich reagieren Kinder, ältere Menschen und Personen mit bestehenden Atemwegserkrankungen. Zudem kann NO₂ die gesundheitsschädliche Wirkung anderer Luftschadstoffe wie Feinstaub und Ozon verstärken und trägt bei intensiver Sonneneinstrahlung zur Ozonbildung bei.&lt;/p&gt;
+                    &lt;p&gt;Datenquelle: &lt;a href="https://api.fairq.inwt-statistics.de/docs#/" target="_blank"&gt;INWT Statistics GmbH, Forecasting Air Quality&lt;/a&gt;&lt;/p&gt;
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Schadstoffprognose</gco:CharacterString>
+                    </gmd:keyword>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:accessConstraints>
+                    <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" />
+                    </gmd:useConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>Quelle: Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt</gco:CharacterString>
+                    </gmd:otherConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>INWT Statistics GmbH, Forecasting Air Quality (https://api.fairq.inwt-statistics.de/docs#/)</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+</gmd:MD_Metadata>
