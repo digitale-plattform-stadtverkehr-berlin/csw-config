@@ -19,7 +19,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2024-03-07</gco:Date>
+        <gco:Date>2026-02-26</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,7 +68,8 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    &lt;p&gt;Die Verkehrsdetektion zeigt Ihnen die Standorte der Verkehrsdetektoren in Berlin. Bei Auswahl einer Messstelle erhalten Sie Informationen zu den aufgezeichneten Messwerten.&lt;/p&gt;
+                    &lt;p&gt;Beinhaltet die Standorte der alten Verkehrsdetektoren in Berlin, welche noch bis Juni 2025 in Betrieb waren. Diese wiesen in den letzten Monaten ihres Betriebes bereits größere Datenlücken auf. Bei Auswahl einer Messstelle erhalten Sie Informationen zu den aufgezeichneten Messwerten bis Juni 2025. Es handelt sich um Rohdaten, die mit erfolgter umfangreicher Qualitätssicherung hier heruntergeladen werden können: &lt;a href="https://api.viz.berlin.de/daten/verkehrsdetektion" target="_blank"&gt;https://api.viz.berlin.de/daten/verkehrsdetektion&lt;/a&gt;&lt;/p&gt;
+                    &lt;p&gt;Die Standorte der neuen Verkehrsdetektoren befinden sich gerade im Aufbau und werden sukzessive in Betrieb genommen. Voraussichtlich ab April 2026 finden Sie die Messungen der ersten neuen Detektoren unter dem Thema "Verkehrsdetektion-aktuell".&lt;/p&gt;
                     &lt;p&gt;Quelle: Senatsverwaltung für Verkehr Berlin&lt;/p&gt;
                     &lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/by-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/by-2-0&lt;/a&gt; abrufbar. Der Quellenvermerk gemäß (2) der Lizenz lautet "Senatsverwaltung für Verkehr Berlin / [Titel des Datensatzes]"&lt;/p&gt;
                 </gco:CharacterString>
