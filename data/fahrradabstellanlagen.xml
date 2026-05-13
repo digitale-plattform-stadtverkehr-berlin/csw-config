@@ -68,7 +68,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    &lt;p&gt;Der Datensatz umfasst sämtliche im Berliner Stadtgebiet angeordnete Fahrradstraßen. Er wurde auf Basis des Fortschrittsberichts Radverkehr und der Datenbank über die Radverkehrsprojekte der infraVelo erstellt.&lt;/p&gt;
+                    &lt;p&gt;Der Datensatz stellt den Bestand und Planungen von Fahrradabstellanlagen dar. Er ermöglicht es eine Übersicht und Auswertung über den Bestand vorzunehmen. Die Datenerfassung erfolgte kontinuierlich über die Datenbank der GB infraVelo GmbH.&lt;/p&gt;
                     &lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/" target="_blank"&gt;Geoportal Land Berlin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Zero - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/zero-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/zero-2-0&lt;/a&gt; abrufbar.&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
