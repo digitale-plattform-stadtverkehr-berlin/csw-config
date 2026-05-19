@@ -19,7 +19,7 @@
     </gmd:hierarchyLevel>
     <gmd:contact/>
     <gmd:dateStamp>
-        <gco:Date>2026-01-05</gco:Date>
+        <gco:Date>2026-05-19</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO19115</gco:CharacterString>
@@ -68,7 +68,7 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>
-                    Bei den Daten handelt es sich um farbige digitale Orthophotomosaike (DOP). Daten liegen für das gesamte Berliner Stadtgebiet im Blattschnitt 2 km x 2 km vor und haben eine Bodenauflösung von 0,20 m bei einer Lagegenauigkeit von +/- 0,4 m.&lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/" target="_blank"&gt;Geoportal Land Berlin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Zero - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/zero-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/zero-2-0&lt;/a&gt; abrufbar.&lt;/p&gt;&lt;/p&gt;
+                    Bei den Daten handelt es sich um farbige digitale True-Orthophotomosaike (TrueDOPI). Dabei werden alle Objekte lagetreu abgebildet, d. h. es gibt keine Verkippungen von Gebäuden oder Bäumen und dadurch keine Abschattungseffekte von z. B. Bürgersteigen. Daten liegen für das gesamte Berliner Stadtgebiet im Blattschnitt 2 km x 2 km vor und haben eine Bodenauflösung von 0,20 m bei einer Lagegenauigkeit von +/- 0,4 m.&lt;p&gt;Quelle: &lt;a href="https://gdi.berlin.de/" target="_blank"&gt;Geoportal Land Berlin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Für die Nutzung der Daten ist die Datenlizenz Deutschland - Zero - Version 2.0 anzuwenden. Die Lizenz ist über &lt;a href="https://www.govdata.de/dl-de/zero-2-0" target="_blank"&gt;https://www.govdata.de/dl-de/zero-2-0&lt;/a&gt; abrufbar.&lt;/p&gt;&lt;/p&gt;
                 </gco:CharacterString>
             </gmd:abstract>
             <gmd:descriptiveKeywords>
